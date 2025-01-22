@@ -3,7 +3,7 @@ Fill a folder with theoretically infinite amounts of cheese with this simple pro
 
 ## How to use:
 
-1. Download cheese.py from the releases page and place it in the folder you wish to fill.
+1. [Download cheese.py](https://github.com/MeWhendoot/cheese./releases/tag/cheese) from the releases page and place it in the folder you wish to fill.
 2. Once placed in a folder, open the folder in your terminal.
 3. Finally, run the file using ```python cheese.py``` or ```python3 cheese.py```
 
